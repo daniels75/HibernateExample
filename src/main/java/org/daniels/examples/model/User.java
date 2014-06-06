@@ -1,4 +1,4 @@
-package org.appfuse.model;
+package org.daniels.examples.model;
 
 import java.io.Serializable;
 
@@ -20,7 +20,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  *         by David Carter david@carter.net
  */
 @Entity
-@Table(name = "app_user")
+@Table(name = "users")
 @XmlRootElement
 public class User implements Serializable {
     private static final long serialVersionUID = 3832626162173359411L;

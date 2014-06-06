@@ -1,4 +1,4 @@
-package org.appfuse.model;
+package org.daniels.examples.model;
 
 import java.io.Serializable;
 

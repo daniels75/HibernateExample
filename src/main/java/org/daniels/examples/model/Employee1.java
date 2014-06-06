@@ -1,4 +1,4 @@
-package com.journaldev.hibernate.model;
+package org.daniels.examples.model;
 
 import java.util.Date;
 
